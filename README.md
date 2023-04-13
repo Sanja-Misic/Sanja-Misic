@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧚 I'm Sanja, a passionate front-end developer. In my portfolio, you can see some of my projects and learn more about my work. To learn more about me, please check out my portfolio website that I've created. You can find it at https://sanja-misic.github.io/My-portfolio-website/.
+🧚 I'm Sanja, a passionate front-end developer. To see more about me, please check out my portfolio website that I've created. You can find it at https://sanja-misic.github.io/My-portfolio-website/.
 
 💁I have experience working with HTML5, CSS3, SASS and JavaScript, and am constantly seeking opportunities to expand my knowledge and skills.
 
