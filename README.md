@@ -4,8 +4,6 @@
 
 💁I have experience working with HTML5, CSS3, SASS and JavaScript, and am constantly seeking opportunities to expand my knowledge and skills.
 
-📚 Currently, I'm focused on learning Vue framework and I'm excited to see how I can incorporate this new knowledge into my future projects. 
-
 🌱 i'm looking for a company that can recognize my talents and potential as a developer. If you believe that I would be a good fit for your company and share your vision for innovation and growth, please take a look at my portfolio and feel free to contact me.
 
 🙂 Thank you for your interest!
@@ -22,4 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+📚 Currently, I'm focused on learning Vue framework and I'm excited to see how I can incorporate this new knowledge into my future projects. 
 -->
